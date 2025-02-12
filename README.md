@@ -2,5 +2,4 @@
 
 [![Kick](https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=black&labelColor=53FC18&color=000)](https://kick.com/imsoto)
 
-Bienvenidos a mi github
-donde nada puede malir sal
+> Bienvenidos a mi **GitHub**, donde nada puede malir sal
